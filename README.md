@@ -14,7 +14,7 @@ CXRTagger  is a lightweight, browser-based application for structured review and
   <summary>
 	  <b>Supported Labels</b>
   </summary>
-Pathology - derived from CheXpert [ ]:
+Pathology - derived from CheXpert[1]:
 
 * Atelectasis
 
@@ -85,7 +85,7 @@ Please open new issues with the codebase or report issues directly to <amichels@
 
 
 ## References:
-Jeremy Irvin, Pranav Rajpurkar, Michael Ko, Yifan Yu, Silviana Ciurea-Ilcus, Chris Chute, Henrik Marklund,Behzad Haghgoo, Robyn Ball, Katie Shpanskaya, et al. CheXpert: A large chest radiograph dataset with uncertainty labels and expert comparison. In Thirty-Third AAAI Conference on Artificial Intelligence, 2019.
+1. Jeremy Irvin, Pranav Rajpurkar, Michael Ko, Yifan Yu, Silviana Ciurea-Ilcus, Chris Chute, Henrik Marklund,Behzad Haghgoo, Robyn Ball, Katie Shpanskaya, et al. CheXpert: A large chest radiograph dataset with uncertainty labels and expert comparison. In Thirty-Third AAAI Conference on Artificial Intelligence, 2019.
 
 ## Disclaimer
 *CXRTagger is intended for research, educational, and development purposes only.
