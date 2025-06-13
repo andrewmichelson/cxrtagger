@@ -89,7 +89,7 @@ Please open new issues with the codebase or report issues directly to <amichels@
 
 ## Disclaimer
 *CXRTagger is intended for research, educational, and development purposes only.
-This tool is not a medical device and has not been approved for clinical use. It should not be used to diagnose, treat, or manage patients. Users are responsible for complying with all applicable laws, regulations, and institutional policies regarding medical data handling and human subject research. Use at your own discretion. Not responsible for any outcomes related to the use of this tool.*
+This tool is not a medical device and has not been approved for clinical use. It should not be used to diagnose, treat, or manage patients. Users are responsible for complying with all applicable laws, regulations, and institutional policies regarding medical data handling and human subject research. Use at your own discretion. Not responsible for any outcomes related to the use of this tool. This tool was created with the use of AI (Claude).*
 
 ## License
 CC BY-NC-SA 4.0.
