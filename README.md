@@ -68,9 +68,9 @@ Support Devices:
 </details>
 
 ## Example Usage
-	git clone https://github.com/your_org/cxrstudio.git
+	git clone https://https://github.com/andrewmichelson/cxrtagger.git
 	
-	cd cxrstudio
+	cd cxrtagger
 	
 	pip install -r requirements.txt
 	
